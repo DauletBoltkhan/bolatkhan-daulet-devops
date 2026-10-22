@@ -1,0 +1,5 @@
+Name: Daulet
+Surname: Bolatkhan
+Group: IT2-2301
+Student ID: 37074
+Course: DevOps
