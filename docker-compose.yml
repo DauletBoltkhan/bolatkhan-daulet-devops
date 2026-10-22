@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    image: bolatkhan-daulet-devops
+    container_name: bolatkhan-daulet-compose
+    environment:
+      STUDENT_NAME: Daulet
+      STUDENT_SURNAME: Bolatkhan
+      STUDENT_GROUP: IT2-2301
+      STUDENT_ID: "37074"
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
