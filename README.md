@@ -30,3 +30,4 @@ docker run --name bolatkhan-daulet-container bolatkhan-daulet-devops
 docker compose up
 ```
 Video demo: Thu Oct 22 17:42:36 UTC 2026
+Video demo: Thu Oct 22 17:58:32 UTC 2026
